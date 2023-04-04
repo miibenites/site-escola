@@ -19,3 +19,18 @@
     display: inline-block;
     margin: 0 16px;
 }
+
+.escola{
+    background-image: linear-gradient(rgb(147, 32, 241));
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.escola-div-conteudo{
+    width: 35%;
+}
+
+.escola-titulo{
+    padding: 24px 0;
+}
