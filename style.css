@@ -1,18 +1,21 @@
 *{
    margin: 0%;
    padding: 0%;
+   font-family: 'Poppings', sans-serif;
 }
 
 
 .cabeçalho{
     background-color: rgb(188, 145, 223);
+    color: black;
     display: flex;
     justify-content: space-around;
     padding: 24px 0;
+    align-items: center;
 }
 
 .cabeçalho-imagem{
-    width: 17%;
+    width: 25%;
 }
 
 .cabeçalho-lista-item{
@@ -20,8 +23,10 @@
     margin: 0 16px;
 }
 
+.escola-imagem{width: 25%;}
+
 .escola{
-    background-image: linear-gradient(rgb(147, 32, 241));
+    background-image: linear-gradient (rgb(147, 32, 241) rgb(0, 89, 255));
     color: white;
     display: flex;
     justify-content: center;
@@ -33,4 +38,9 @@
 
 .escola-titulo{
     padding: 24px 0;
+}
+
+.estudante-imagem{
+     width: 25%;
+
 }
