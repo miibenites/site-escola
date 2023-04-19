@@ -26,12 +26,15 @@
 .escola-imagem{width: 25%;}
 
 .escola{
-    background-image: linear-gradient (rgb(147, 32, 241) rgb(0, 89, 255));
+
+    background-image: linear-gradient(rgb(147, 32, 241),rgb(24, 74, 165));
     color: white;
     display: flex;
     justify-content: center;
     align-items: center;
 }
+
+
 .escola-div-conteudo{
     width: 35%;
 }
