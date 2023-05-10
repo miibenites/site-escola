@@ -55,15 +55,17 @@
 
 .pinterest{
 width: 30px;
-
-}
-
+word-spacing: 10px;
+    
+    }
+    
 .instagram{
 width: 30px;
+word-spacing: 20px;
+    }
     
- }
-
 .twitter{
 width: 30px;
-        
-}
+word-spacing: 20pxf;
+    
+    }
