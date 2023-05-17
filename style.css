@@ -50,6 +50,7 @@
 
 .estudante-div{
     text-align: center;
+    
 
 }
 
@@ -68,5 +69,7 @@ width: 30px;
     }
 
 .estudantes-todos{
-    
-}
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}    
+
