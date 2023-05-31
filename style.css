@@ -7,7 +7,7 @@
 
 .cabeçalho{
     background-color: rgb(188, 145, 223);
-    color: black;
+    color: rgb(20, 24, 27);
     display: flex;
     justify-content: space-around;
     padding: 24px 0;
@@ -21,6 +21,8 @@
 .cabeçalho-lista-item{
     display: inline-block;
     margin: 0 16px;
+    font-size: 24px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .escola-imagem{width: 25%;}
@@ -73,3 +75,12 @@ width: 30px;
     grid-template-columns: 20% 20% 20% 20% 20%;
 }    
 
+.rodape{
+    background-color: rgb(188, 145, 223);
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 50px;
+    padding: 12px 0 ;
+}
